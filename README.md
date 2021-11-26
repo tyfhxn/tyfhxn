@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyfhxn&layout=compact)](https://github.com/tyfhxn/github-readme-stats)
 
 
-[tyfhxn的留言板](https://api.moedog.org/room/@tyfhxn)
+[!tyfhxn的留言板](https://api.moedog.org/room/@tyfhxn)
 
 ![Metrics](https://metrics.lecoq.io/tyfhxn?template=classic&config.timezone=Asia%2FShanghai)
 
